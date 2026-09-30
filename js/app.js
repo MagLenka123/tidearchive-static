@@ -2,7 +2,7 @@ const creds = {
   user: "tidewatcher",
   passwords: [
     "MorzePamietaWszystko!1987",
-    "TheSeaRemembersEverything!1987"
+    "SeaRemembersEverything!1987"
   ]
 };
 
